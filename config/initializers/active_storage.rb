@@ -1,0 +1,2 @@
+Rails.application.config.active_storage.analyzers.append BinaryMarcAnalyzer
+Rails.application.config.active_storage.analyzers.append XmlMarcAnalyzer
